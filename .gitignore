@@ -1,0 +1,17 @@
+# Large files exceeding GitHub's 100MB limit
+# These files are stored separately - contact admin for access
+
+# Large ZIP archives (over 100MB)
+**/欧标-7-26 OK.zip
+**/法国 波兰-7-26 OK.zip
+**/中东非洲 7-26 ok.zip
+**/英标 7-26 ok.zip
+
+# Large PDFs (over 100MB)
+**/画册.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
