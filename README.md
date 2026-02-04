@@ -65,12 +65,183 @@ PECH-SMART-HOME/
 | Smart Sockets | WiFi/Zigbee enabled power sockets |
 | Thermostats | Smart temperature control devices |
 
-#### Regional Standards:
-- 🇪🇺 **EU Standard** - Europe, Russia, Central Asia
-- 🇬🇧 **UK Standard** - UK, Hong Kong, Singapore, Nigeria
-- 🇺🇸 **US Standard** - USA, Canada, Mexico, Latin America
-- 🇫🇷 **FR Standard** - France, Poland, Slovakia, West Africa
-- 🌍 **Middle East/Africa** - Gulf countries, African nations
+---
+
+## 🌍 Global Regional Electrical Standards
+
+### 🇪🇺 EU Standard (Type C/E/F) — European Schuko
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Types** | Type C (Europlug), Type E (French), Type F (Schuko) |
+| **Socket Shape** | Round pins, 4.0-4.8mm diameter |
+| **Certifications** | CE, RoHS, REACH |
+| **Countries** | Germany, Austria, Netherlands, Belgium, Spain, Portugal, Italy, Greece, Poland, Czech Republic, Hungary, Romania, Bulgaria, Croatia, Slovenia, Slovakia, Sweden, Finland, Norway, Denmark, Russia, Ukraine, Belarus, Kazakhstan, Uzbekistan, Turkey |
+
+---
+
+### 🇬🇧 UK Standard (Type G) — British BS 1363
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type G (3 rectangular pins) |
+| **Socket Shape** | 3 rectangular pins with fuse |
+| **Certifications** | UKCA, BSI, CE |
+| **Countries** | United Kingdom, Ireland, Malta, Cyprus, Hong Kong, Singapore, Malaysia, Brunei, UAE, Qatar, Bahrain, Kuwait, Oman, Saudi Arabia (partial), Nigeria, Ghana, Kenya, Uganda, Tanzania, Zambia, Zimbabwe, Malawi, Botswana, Pakistan, Bangladesh, Sri Lanka, Myanmar |
+
+---
+
+### 🇺🇸 US Standard (Type A/B) — NEMA
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 110-120V AC |
+| **Frequency** | 60 Hz |
+| **Plug Types** | Type A (2 flat pins), Type B (2 flat + ground) |
+| **Socket Shape** | Flat parallel pins |
+| **Certifications** | FCC, UL, ETL, CSA |
+| **Countries** | United States, Canada, Mexico, Colombia, Venezuela, Ecuador, Peru, Brazil (partial), Japan (100V), Taiwan, Philippines, Thailand (partial), Vietnam, Cambodia, Laos, Honduras, Guatemala, El Salvador, Nicaragua, Costa Rica, Panama, Dominican Republic, Haiti, Jamaica, Cuba, Puerto Rico |
+
+---
+
+### 🇫🇷 French Standard (Type E) — French CEE 7/5
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type E (2 round pins + grounding pin hole) |
+| **Socket Shape** | Round with male grounding pin |
+| **Certifications** | CE, NF, RoHS |
+| **Countries** | France, Belgium, Poland, Slovakia, Czech Republic, Morocco, Algeria, Tunisia, Senegal, Ivory Coast, Cameroon, Democratic Republic of Congo, Madagascar, Mali, Niger, Burkina Faso, Benin, Togo, Guinea, Mauritania, Gabon, Chad, Central African Republic |
+
+---
+
+### 🌍 Middle East & Africa Standard
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Types** | Mixed (Type G UK, Type C/F EU, Type D Indian) |
+| **Certifications** | SASO (Saudi), ESMA (UAE), CE |
+| **Countries** | Saudi Arabia, UAE, Qatar, Kuwait, Bahrain, Oman, Jordan, Lebanon, Egypt, Libya, Sudan, Ethiopia, South Africa, Namibia, Mozambique, Angola |
+
+#### Sub-regions:
+- **Gulf States (GCC)**: Primarily UK Type G standard
+- **North Africa**: Mix of French Type E and EU Type C
+- **East Africa**: UK Type G (former British colonies)
+- **South Africa**: Type M (large 3-pin) and Type N
+
+---
+
+### 🇦🇺 Australian Standard (Type I) — AS/NZS 3112
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type I (angled flat pins) |
+| **Socket Shape** | 2 angled flat pins + grounding |
+| **Certifications** | SAA, RCM, C-Tick |
+| **Countries** | Australia, New Zealand, Papua New Guinea, Fiji, Tonga, Samoa, Solomon Islands, China (partial), Argentina |
+
+---
+
+### 🇨🇳 Chinese Standard (Type I/A) — GB 2099
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220V AC |
+| **Frequency** | 50 Hz |
+| **Plug Types** | Type I (angled flat), Type A (2 flat), Type C (round) |
+| **Socket Shape** | Universal multi-standard common |
+| **Certifications** | CCC (China Compulsory Certificate) |
+| **Countries** | China (mainland) |
+
+---
+
+### 🇮🇳 Indian Standard (Type D/M) — IS 1293
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Types** | Type D (3 large round pins), Type M (larger variant) |
+| **Socket Shape** | 3 round pins in triangle |
+| **Certifications** | BIS (Bureau of Indian Standards) |
+| **Countries** | India, Nepal, Sri Lanka (partial), Pakistan (partial), Bangladesh (partial) |
+
+---
+
+### 🇧🇷 Brazilian Standard (Type N) — NBR 14136
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 127V / 220V AC (varies by region) |
+| **Frequency** | 60 Hz |
+| **Plug Type** | Type N (3 round pins) |
+| **Socket Shape** | 3 round pins, unique to Brazil |
+| **Certifications** | INMETRO |
+| **Countries** | Brazil |
+
+---
+
+### 🇨🇭 Swiss Standard (Type J) — SEV 1011
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type J (3 round pins, offset ground) |
+| **Socket Shape** | Hexagonal recessed |
+| **Certifications** | SEV, CE |
+| **Countries** | Switzerland, Liechtenstein, Rwanda |
+
+---
+
+### 🇮🇱 Israeli Standard (Type H) — SI 32
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type H (3 pins - V-shaped, now round) |
+| **Socket Shape** | Unique to Israel |
+| **Certifications** | SII |
+| **Countries** | Israel, Palestine |
+
+---
+
+### 🇩🇰 Danish Standard (Type K) — DS 60884-2-D1
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Type** | Type K (3 round pins with grounding) |
+| **Socket Shape** | Similar to French but grounding pin on plug |
+| **Certifications** | CE, DEMKO |
+| **Countries** | Denmark, Greenland, Faroe Islands |
+
+---
+
+### 🇿🇦 South African Standard (Type M/N)
+| Specification | Details |
+|---------------|---------|
+| **Voltage** | 220-240V AC |
+| **Frequency** | 50 Hz |
+| **Plug Types** | Type M (large 3 round pins), Type N (new standard) |
+| **Socket Shape** | Large round 3-pin |
+| **Certifications** | SABS, NRCS |
+| **Countries** | South Africa, Lesotho, Eswatini, Namibia, Botswana, Mozambique |
+
+---
+
+## 📊 Quick Reference Chart
+
+| Standard | Voltage | Frequency | Plug Type | Key Markets |
+|----------|---------|-----------|-----------|-------------|
+| 🇪🇺 EU | 220-240V | 50Hz | C/E/F | Europe, Russia |
+| 🇬🇧 UK | 220-240V | 50Hz | G | UK, Gulf, Africa |
+| 🇺🇸 US | 110-120V | 60Hz | A/B | Americas, Asia |
+| 🇫🇷 FR | 220-240V | 50Hz | E | France, W. Africa |
+| 🇦🇺 AU | 220-240V | 50Hz | I | Oceania, China |
+| 🇨🇳 CN | 220V | 50Hz | I/A/C | China |
+| 🇮🇳 IN | 220-240V | 50Hz | D/M | South Asia |
+| 🇧🇷 BR | 127/220V | 60Hz | N | Brazil |
 
 ---
 
